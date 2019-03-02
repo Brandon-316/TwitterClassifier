@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TwitterClassifier
 //
-//  Created by Brandon Mahoney on 3/2/19.
+//  Created by Brandon Mahoney on 3/1/19.
 //  Copyright © 2019 Brandon Mahoney. All rights reserved.
 //
 
